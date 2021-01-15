@@ -5,5 +5,8 @@ public class linghc {
         System.out.println("dugujiujian");
         System.out.println("dugujiujian");
         System.out.println("dugujiujian");
+        System.out.println("独孤九剑");
+        System.out.println("独孤九剑");
+        System.out.println("独孤九剑");
     }
 }

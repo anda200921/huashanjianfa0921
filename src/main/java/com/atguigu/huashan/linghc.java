@@ -9,5 +9,8 @@ public class linghc {
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("气宗不好");
+        System.out.println("夺命三仙剑");
+        System.out.println("夺命三仙剑");
+        System.out.println("夺命三仙剑");
     }
 }
